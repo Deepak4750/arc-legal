@@ -9,7 +9,7 @@ Arc (formerly Flow) is an app for tasks, water, fitness and nutrition, made by M
 - Your Arc content (tasks, water, workouts, food, body measurements, photos, routes and settings) is stored only on your phone.
 - We do not run any server or database that holds your Arc content. We never receive it, so it cannot leak from us.
 - A few features use the internet. Each one is listed below with what is sent and to whom.
-- Usage and crash data is shared only if you turn it on. You can turn it off any time.
+- Arc's usage and crash data is shared only if you turn it on. You can turn it off any time.
 - A bug report is sent only when you choose to send it, after you see what it contains.
 
 ## 1. What stays on your phone
@@ -53,6 +53,7 @@ Arc asks you to sign in with Google. Google confirms who you are and gives Arc y
 - Bug reports: your message and, only if you leave them ticked, a screenshot, device details and Arc's recent technical log, to us, stored in Google Firebase Firestore, only when you choose to send one.
 - Maps: the map area being shown, which reveals your approximate location, to OpenFreeMap tile servers, while a cardio map is on screen or when Arc draws a map for a sticker you make.
 - Barcode lookup: the barcode number, to Open Food Facts, only when you scan a barcode and lookup is on.
+- Text reading and barcode scanning: reading a routine from a picture and scanning a barcode use Google's ML Kit and code scanner on your phone. Your pictures are not sent. When you use these features, Google receives device and app details, an installation identifier, and performance and error information, to diagnose problems and measure use. This happens even when usage data is off.
 - Copies installed outside Google Play only: a request for the latest version file, and the app or add-on download, to GitHub (owned by Microsoft), when Arc checks for updates or you choose to download. The Google Play version updates through Google Play.
 
 Google's Firebase software also creates a random installation identifier so that these Google services can work. Any internet request reveals your IP address to the service that receives it. We do not combine any of this with your Arc content, because we never have your Arc content.
