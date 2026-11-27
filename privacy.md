@@ -2,7 +2,7 @@
 
 Version 4. Effective 27 November 2026.
 
-Arc (formerly Flow) is an app for tasks, water, fitness and nutrition, made by M. Deepak Reddy, an individual developer in India who publishes as Arc Wellness ("we", "us"). We decide how the data described here is used. This policy explains what happens to your information when you use Arc. It is written to meet India's Digital Personal Data Protection Act, 2023 and its Rules. Arc is not offered in the European Economic Area or the United Kingdom. Some folder, add-on and link names still use the old name, Flow.
+Arc (formerly Flow) is an app for tasks, water, fitness and nutrition, made by M. Deepak Reddy, an individual developer in India who publishes as Arc Wellness ("we", "us"). We decide how the data described here is used. This policy explains what happens to your information when you use Arc. It is written to meet India's Digital Personal Data Protection Act, 2023 and its Rules. Arc is not offered in the European Economic Area or the United Kingdom. Some folder and link names still use the old name, Flow.
 
 ## The short version
 
@@ -63,7 +63,7 @@ Usage data and crash reports never include your tasks, food, workouts, body deta
 
 - Notifications and exact alarms: to deliver task, water and workout reminders on time.
 - Full-screen alarms: so a task alarm can ring over the lock screen.
-- Notification access (Workout music): held by the separate Flow Music Access add-on, only to read what is playing (song, artist, cover) and control play, pause and skip in your music app. It does not read or store your other notifications.
+- Notification access (Workout music): held by the separate Arc Music Access add-on, only to read what is playing (song, artist, cover) and control play, pause and skip in your music app. It does not read or store your other notifications.
 - Nearby devices (Workout music): to list your paired headphones and see when they connect. Not used to find your location.
 - Ignore battery optimisation: so reminders are not delayed or dropped.
 - Start at boot: to restore reminders after the phone restarts.
