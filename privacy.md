@@ -31,7 +31,7 @@ We have no copy of any of this. If you uninstall Arc, clear its data or lose you
 
 Some features write files outside Arc's private storage. These files are in your control, not ours.
 
-- Keep data on uninstall: when this is on, Arc keeps a copy of its database in the Documents/Flow folder on your phone so your data can come back after a reinstall. Other apps with storage access, and anyone with access to your phone, may be able to read this file. You can turn it off in Settings.
+- Keep data on uninstall: when this is on, Arc keeps a copy of its database in the Documents/Arc folder on your phone so your data can come back after a reinstall. Other apps with storage access, and anyone with access to your phone, may be able to read this file. You can turn it off in Settings.
 - Export: a zip of your tasks, water and workouts that you save or share where you choose.
 - Stickers and shared images: images you choose to share through other apps.
 - Import: Hevy or Strong files you choose to open are read on your phone and are not sent anywhere.
